@@ -1,0 +1,104 @@
+/* header section */
+header{
+    background-image:  linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(hero-6-cover-dark.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: fit-content;
+   
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.nav1{
+    padding: 18px 20px;
+}
+.nav2{
+    padding-left: 30px;
+    
+}
+.btn1{
+    background-color: #23A6F0;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+}
+.btn1:hover{
+    background-color: transparent;
+    border: 1px solid black;
+    color: white;
+   
+}
+
+.textstudents{
+   margin-top: 30vh;
+   padding-bottom: 190px;
+   
+
+}
+.welcome{
+    color: #23A6F0;
+}
+.trustus{
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+}
+.weknow{
+    color: white;
+    font-size: 20px;
+}
+
+
+main{
+    background-color: #252B42;
+}
+
+/* section cards */
+.icon{
+    background-color: #23A6F0;
+
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15%;
+    height: 50px;
+    margin-top: 15px;
+    margin-bottom: 14px;
+
+}
+.iconbook{
+    color: white;
+    font-size: 30px;
+    padding: 16px 18px;
+  
+  
+}
+
+
+.row1st{
+   margin-left: 12px;
+   margin-right: 12px;
+    margin-bottom: 30px;
+}
+
+/* course section */
+.courses{
+    margin-top: 150px;
+}
+.coursetit{
+    color: white;
+    margin-bottom: 12px;
+    font-size: 40px;
+}
+.coursetext{
+    color: white;
+    margin-bottom: 10px;
+}
+.imgcourse{
+  margin-left: 15vw;
+}
+

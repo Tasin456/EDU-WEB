@@ -1,0 +1,7 @@
+/* card section */
+@media (max-width:560px) {
+    .card1{
+       width: 300px;
+    }
+    
+}
